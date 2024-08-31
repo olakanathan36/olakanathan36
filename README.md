@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👨‍💻 Front-End Enthusiast | Aspiring Full-Stack Developer 🌟<br><br>I love turning ideas into beautiful, responsive web experiences. Currently diving into the world of full-stack development, I'm passionate about solving complex problems and bringing innovation to life. 🚀 Always curious, always learning—I'm on a journey to master the full stack and create impactful solutions. 💡</p>
+<p align="left">👨‍💻 Front-End Enthusiast | Aspiring Full-Stack Developer 🌟<br><br>I love turning ideas into  responsive web experiences. Currently diving into the world of full-stack development, I'm passionate about solving complex problems and bringing innovation to life. 🚀 Always curious, always learning—I'm on a journey to master the full stack and create impactful solutions. 💡</p>
 
 ###
 
